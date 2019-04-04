@@ -1,8 +1,18 @@
+### 1.1.5
+
+#### Bugfixes
+
+* * removed .git/index from npm package (this fixes #43)
+
 ### 1.1.4
 
 #### Features
 
-* Added select date on doouble-click
+* Added select date on double-click
+
+#### Bugfixes
+
+* Updated moment version to fix security vulnaribility (pull request #42, thanks to [Kyle](https://github.com/kylekatarnls))
 
 ### 1.1.3
 
